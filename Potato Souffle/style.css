@@ -1,0 +1,48 @@
+body{
+    background-color:lemonchiffon;
+}
+.title{ 
+border:solid rgb(42, 165, 79);
+text-align:center;
+color:purple;
+}
+.description{ 
+ padding:25px;
+ margin:35px:
+}
+.nanaPic{
+    border:solid orange;
+    height: 550px;
+    width: 550px;
+    margin-left:30%;
+    border-radius:12px;
+}
+
+.ingredients{
+    text-align:center;
+    list-style:circle
+    
+}
+.items{
+    text-align:center;
+    list-style-position: inside;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monos
+    
+    
+}
+
+.stepContainer{
+    border:solid orange;
+    margin:12px;
+    padding:22px;
+    background-image:url('https://media.tenor.com/4F7Qwb1tIfsAAAAC/sweet-potato-casserole-potato-casserole.gif');
+
+}
+
+.steps{
+    text-align: right;
+    margin: 12px;
+}
+
+
